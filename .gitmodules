@@ -1,0 +1,7 @@
+[submodule "DbConnector1"]
+	path = DbConnector1
+	url = git@github.com:CuiLingZhang/DbConnector1.git
+[submodule "DbConnector2"]
+	path = DbConnector2
+	url = git@github.com:CuiLingZhang/DbConnector2.git
+	branch = dev
